@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- Animated Header / Typing SVG -->
-  <a href="https://github.com/HariharanSP-13">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Hariharan+S+P+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;IoT+%26+Embedded+Systems+Builder+%E2%9A%A1;BE+CSE+Student+%40+Dr.+NGP+iTech+%F0%9F%8E%93" alt="Typing SVG" />
-  </a>
+  <!-- Clean Static Header -->
+  <h1>Hi there, I'm Hariharan S P 👋</h1>
 
   <p align="center">
     <strong>Computer Science & Engineering Student | Dr. N.G.P. Institute of Technology (2023–2027) | CGPA: 8.31</strong>
@@ -18,7 +16,7 @@
     <a href="mailto:hariharansp1316@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://www.linkedin.com/in/hariharansp" target="_blank">
+    <a href="https://www.linkedin.com/in/hariharan-s-p-495a43326/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/HariharanSP-13" target="_blank">
@@ -41,23 +39,14 @@
 
 ### 💫 About Me
 
-```yaml
-name: Hariharan S P
-location: Coimbatore, Tamil Nadu, India
-degree: Bachelor of Engineering in Computer Science and Engineering
-institution: Dr. N.G.P. Institute of Technology (2023 – 2027)
-academics:
-  cgpa: 8.31 / 10 (till 6th semester)
-  higher_secondary: 81% (Vivekanandha Academy)
-current_focus: Full-Stack Web Development, AI/ML Integrations & IoT Solutions
-hobbies_languages: English, Tamil
-```
+I am a Computer Science student who enjoys exploring technology, learning by doing, and working on ideas that can make a practical difference. I like taking on new problems, understanding how things work, and improving my approach through hands-on experience. I am seeking an opportunity to begin my professional journey in a supportive environment where I can contribute to meaningful work, learn from experienced professionals, and grow with every challenge I take on.
 
-- 🎓 **Undergraduate Student** in Computer Science & Engineering with a strong foundation in data structures, algorithms, and full-stack software development.
-- 💡 Passionate about **learning by doing**, building pragmatic real-world solutions that combine **Web Tech**, **Artificial Intelligence**, and **IoT Hardware**.
-- 💼 Former **Web Development Intern** at *Appin Technology* with hands-on experience building responsive web interfaces and modern UI workflows.
-- 🏆 Active hackathon competitor (*HackRush 24h*, *Devspark 24h*) and certified in **NPTEL Cloud Computing** & **NPTEL Industrial IoT (Elite+Silver)**.
-- 🎯 **Career Goal**: Seeking exciting opportunities to contribute to impactful software engineering, collaborate with seasoned mentors, and tackle complex challenges.
+- 🎓 **Undergraduate Degree**: Pursuing B.E. in Computer Science & Engineering at **Dr. N.G.P. Institute of Technology, Coimbatore** (2023–2027) with a **CGPA of 8.31** (till 6th semester).
+- 🏫 **Higher Secondary Education**: Completed HSC at **Vivekanandha Academy Senior Secondary School** (2023) with **81%**.
+- 💼 **Internship Experience**: Former **Web Development Intern** at **Appin Technology** — gained hands-on experience building responsive web interfaces, UI design, and production workflows.
+- 🎯 **Areas of Interest**: Full-Stack Web Development, Backend Development, Artificial Intelligence & Machine Learning, Data Analysis, and IoT Systems.
+- 🏆 **Certifications & Achievements**: NPTEL Cloud Computing (2025), NPTEL Industrial IoT — Elite + Silver (Dec 2025), and 24-hr Hackathons (*HackRush* & *Devspark*).
+- 🗣️ **Languages Known**: English, Tamil.
 
 ---
 
@@ -199,7 +188,7 @@ hobbies_languages: English, Tamil
     <img src="https://img.shields.io/badge/Email-hariharansp1316%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hariharansp" target="_blank">
+  <a href="https://www.linkedin.com/in/hariharan-s-p-495a43326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
